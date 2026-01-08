@@ -1,0 +1,11 @@
+voiture : racine du dépôt GitHub GaetanLgt/voiture.
+​
+
+.github : dossier réservé aux configurations GitHub (workflows, templates, etc.).
+​
+
+workflows : sous-dossier où résident les fichiers GitHub Actions (CI/CD).
+​
+
+dans principal : tout cela se passe sur la branche main du dépôt.
+​
